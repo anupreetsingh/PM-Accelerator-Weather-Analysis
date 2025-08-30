@@ -34,13 +34,13 @@ This project is meant to be submission for testing out my suitability as Data Sc
 - **SciPy**: Statistical analysis
 - **Joblib**: Model persistence
 
-## Installation & Usage
 
-
+## Running the Script 
+Although you don't need to run the script since it has been run twice but if you want to check the validation of the project you can do so by following these steps:
 1. **Clone / extract** the project code (from GitHub or the provided `.zip`).
    - After extracting the `.zip`, **navigate into the project directory**:
      ```bash
-     cd weather-analysis-project
+     cd PM-Accelerator-Weather-Analysis-main
      ```
 2. **Create a virtual environment** (recommended) and **install dependencies**:
    ```bash
