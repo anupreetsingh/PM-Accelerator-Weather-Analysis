@@ -125,11 +125,6 @@ Two complementary methods for ranking which features matter most:
 
 > **Tip:** You can embed any of the `.png` plots in your GitHub README or slide deck. The PM Accelerator mission (below) can also be added verbatim to your slide’s title or overview page.
 
----
-
-
----
-
 ## 6) Methodology Notes & Good Practices
 
 - **Time‑Aware Evaluation**: Using a chronological split reflects real‑world forecasting and avoids leakage from future into past.
@@ -143,15 +138,6 @@ Two complementary methods for ranking which features matter most:
   - Consider **lag features** and **holiday/seasonality** indicators for richer temporal signals.
 
 ---
-
-## 7) References
-
-- **Dataset**: Kaggle — World Weather Repository (Daily Updating).  
-  • Overview: <https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository>  
-  • Data/Code: <https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository/code>
-
-- **PM Accelerator (mission/description)**: Product Manager Accelerator — Certification page:  
-  • <https://www.pmaccelerator.io/product-manager-certification>
 
 ---
 
